@@ -1,0 +1,87 @@
+.App {
+text-align: center;
+height: 2000px;
+}
+
+.container{
+  width: 800px;
+  height:  700px;
+  background-color: aqua;
+  margin: auto;
+}
+.header{
+  width: 100%;
+  height: 100px;
+  background-color: blueviolet;
+  text-align: center;
+  border: 1px solid;
+  padding-top: 20px;
+  text-transform: capitalize;
+}
+
+.aside{
+  height: 500px;
+  width: 60%;
+  background-color: chartreuse;
+  /* margin-bottom: 150px;  */
+margin-right: -200px;
+ border: 1px solid;
+ text-transform: capitalize;
+ font-size: xx-large;
+
+}
+
+.section{
+  width: 100%; 
+   height: 500px;
+  background-color: chocolate;
+  border: 1px solid;
+}
+.footer{
+  background-color: rgb(193, 236, 20);
+  width: 100%;
+  height: 100px;
+  text-align: center;
+  font-size: 50px;
+  border: 1px solid;
+  text-transform: capitalize;
+
+
+}
+
+.active{
+  border: 1px solid;
+  width: 200px;
+  height: 50px;
+  background-color: aqua;
+  margin: 0 auto;
+  margin-top: 20px;
+  text-align: center;
+  padding-top: 20px;
+}
+
+
+.minibox{
+  display: flex;
+  justify-content: space-between;
+  /* background-color: blue; */
+  width: 600px;
+}
+
+.topic{
+  height: 50px;
+  background-color: rgb(82, 185, 82);
+  font-size: 20px;
+  text-transform: capitalize;
+  text-decoration: double;
+  padding-top: 10px;
+  font-weight: 600;
+}
+
+
+.button{
+  width: 200px;
+  height: 50px;
+  background-color: cadetblue;
+  margin-left: 500px;
+}
