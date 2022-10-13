@@ -24,6 +24,11 @@ function App() {
     <Footer/>
     </div>
 <Button />
+       <p>
+        
+        Разработчик №2: <b>Asman</b>
+            <span>Сделал эту верстку!</span>
+       </p>
    </div>
 }
 
