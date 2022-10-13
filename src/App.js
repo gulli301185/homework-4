@@ -22,7 +22,7 @@ function App() {
     <Aside/>
 </div>
     <Footer/>
-    </div>
+    
 <Button />
        <p>
         
@@ -41,6 +41,7 @@ function App() {
         Разработчик №4: <b>Bulut</b>
             <span>Сделала эту верстку сама!</span>
        </p>
+   </div>
    </div>
 
 
