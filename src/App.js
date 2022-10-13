@@ -15,7 +15,7 @@ import Button from './components/button';
 function App() {
   return  <div className='App'>
    <div className='container'>
-    <Header/>
+    <Header />
     <Topic/>
     <div className='minibox'>
       <Section/>
@@ -29,7 +29,15 @@ function App() {
         Разработчик №2: <b>Asman</b>
             <span>Сделал эту верстку!</span>
        </p>
+
+       <p>
+        
+        Разработчик №3: <b>Leila</b>
+            <span>Сделала эту верстку сама!</span>
+       </p>
    </div>
+
+
 }
 
 export default App;
